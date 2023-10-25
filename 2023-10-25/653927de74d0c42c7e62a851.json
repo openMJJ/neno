@@ -1,6 +1,6 @@
 {
-	"content": "<p><strong>###########<u>SSh-web</u></strong></p><p>https://next-terminal.typesafe.cn/</p><p>https://www.spug.cc/</p><p><span style=\"color: rgb(68, 68, 68);\">servercat</span></p><p><span style=\"color: rgb(68, 68, 68);\">https://sshwifty.herokuapp.com/</span></p><p>https://ssh.qianmianyao.cn</p><p><span style=\"color: rgb(68, 68, 68);\">docker-webssh2</span></p><p>jumpserver</p><p>https://hub.docker.com/r/snsyzb/webssh</p><p><span style=\"background-color: rgb(249, 249, 249); color: rgb(102, 102, 102);\">Prompt</span></p><p>GoTTY - Share your terminal as a web application</p><p>go get github.com/yudai/gotty</p>",
-	"pureContent": "###########SSh-web\n\nhttps://next-terminal.typesafe.cn/\n\nhttps://www.spug.cc/\n\nservercat\n\nhttps://sshwifty.herokuapp.com/\n\nhttps://ssh.qianmianyao.cn\n\ndocker-webssh2\n\njumpserver\n\nhttps://hub.docker.com/r/snsyzb/webssh\n\nPrompt\n\nGoTTY - Share your terminal as a web application\n\ngo get github.com/yudai/gotty",
+	"content": "<p><strong>###########<u>SSh-web</u></strong></p><p>https://next-terminal.typesafe.cn/</p><p>https://www.spug.cc/   文件管理无法修改文件</p><p><span style=\"color: rgb(68, 68, 68);\">servercat</span></p><p><span style=\"color: rgb(68, 68, 68);\">https://sshwifty.herokuapp.com/</span></p><p>https://ssh.qianmianyao.cn</p><p><span style=\"color: rgb(68, 68, 68);\">docker-webssh2</span></p><p>jumpserver</p><p>https://hub.docker.com/r/snsyzb/webssh</p><p><span style=\"color: rgb(102, 102, 102); background-color: rgb(249, 249, 249);\">Prompt</span></p><p>GoTTY - Share your terminal as a web application</p><p>go get github.com/yudai/gotty</p>",
+	"pureContent": "###########SSh-web\n\nhttps://next-terminal.typesafe.cn/\n\nhttps://www.spug.cc/   文件管理无法修改文件\n\nservercat\n\nhttps://sshwifty.herokuapp.com/\n\nhttps://ssh.qianmianyao.cn\n\ndocker-webssh2\n\njumpserver\n\nhttps://hub.docker.com/r/snsyzb/webssh\n\nPrompt\n\nGoTTY - Share your terminal as a web application\n\ngo get github.com/yudai/gotty",
 	"_id": "653927de74d0c42c7e62a851",
 	"parentId": "",
 	"source": "web",
@@ -10,5 +10,5 @@
 	"images": [],
 	"created_at": "2023-10-25T22:36:14+08:00",
 	"sha": "",
-	"update_at": "2023-10-25T22:37:08+08:00"
+	"update_at": "2023-10-25T22:47:07+08:00"
 }
