@@ -1,14 +1,15 @@
 {
-	"content": "<p>RSS#</p><p>https://www.cngold.org/data/rssmap.html</p><p>https://www.stockstar.com/home.htm?file=xml/stock/3833.xml</p>",
-	"pureContent": "RSS#\n\nhttps://www.cngold.org/data/rssmap.html\n\nhttps://www.stockstar.com/home.htm?file=xml/stock/3833.xml",
+	"content": "<p _msttexthash=\"38220\" _msthash=\"43\">.RSS#</p><p _msttexthash=\"1283451\" _msthash=\"42\">https://www.cngold.org/data/rssmap.html</p><p _msttexthash=\"2441179\" _msthash=\"41\">https://www.stockstar.com/home.htm?file=xml/stock/3833.xml</p><p _msttexthash=\"2441179\" _msthash=\"41\"><br></p><p _msttexthash=\"1364584\" _msthash=\"41\">https://flowerss-bot.vercel.app/#/install</p>",
+	"pureContent": ".RSS#\n\nhttps://www.cngold.org/data/rssmap.html\n\nhttps://www.stockstar.com/home.htm?file=xml/stock/3833.xml\n\n\n\n\nhttps://flowerss-bot.vercel.app/#/install",
 	"_id": "653a603fb728178e43f830ae",
 	"parentId": "",
 	"source": "web",
 	"tags": [
-		"#"
+		"#",
+		"#/install"
 	],
 	"images": [],
 	"created_at": "2023-10-26T20:49:03+08:00",
 	"sha": "",
-	"update_at": "2023-10-26T21:12:28+08:00"
+	"update_at": "2023-10-26T23:20:35+08:00"
 }
