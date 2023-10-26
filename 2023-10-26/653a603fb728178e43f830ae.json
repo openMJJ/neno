@@ -1,10 +1,14 @@
 {
-	"content": "<p>https://www.cngold.org/data/rssmap.html</p>",
-	"pureContent": "https://www.cngold.org/data/rssmap.html",
+	"content": "<p>RSS#</p><p>https://www.cngold.org/data/rssmap.html</p><p>https://www.stockstar.com/home.htm?file=xml/stock/3833.xml</p>",
+	"pureContent": "RSS#\n\nhttps://www.cngold.org/data/rssmap.html\n\nhttps://www.stockstar.com/home.htm?file=xml/stock/3833.xml",
 	"_id": "653a603fb728178e43f830ae",
 	"parentId": "",
 	"source": "web",
-	"tags": [],
+	"tags": [
+		"#"
+	],
 	"images": [],
-	"created_at": "2023-10-26T20:49:03+08:00"
+	"created_at": "2023-10-26T20:49:03+08:00",
+	"sha": "",
+	"update_at": "2023-10-26T21:12:28+08:00"
 }
