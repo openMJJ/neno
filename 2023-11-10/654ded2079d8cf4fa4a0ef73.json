@@ -1,0 +1,10 @@
+{
+	"content": "<p _msttexthash=\"31918627\" _msthash=\"52\">御坂， [2023/11/10 16：40]</p><p _msttexthash=\"5247619\" _msthash=\"51\">wget -O snell.sh --no-check-certificate https://git.io/Snell.sh &amp;&amp; chmod +x snell.sh &amp;&amp; ./snell.sh</p><p _msttexthash=\"21209825\" _msthash=\"50\">自用的 秒搭建</p><p><br></p><p _msttexthash=\"33083115\" _msthash=\"49\">如街， [2023/11/10 16：41]</p><p _msttexthash=\"88678239\" _msthash=\"48\">用我的bash &lt;（curl -s https://img.coderluny.com:444/uploads/setup_snell.png）</p><p _msttexthash=\"88678239\" _msthash=\"48\"><br></p><p _msttexthash=\"747058\" _msthash=\"48\">https://speed.cloudflare.com/</p>",
+	"pureContent": "御坂， [2023/11/10 16：40]\n\nwget -O snell.sh --no-check-certificate https://git.io/Snell.sh && chmod +x snell.sh && ./snell.sh\n\n自用的 秒搭建\n\n\n\n\n如街， [2023/11/10 16：41]\n\n用我的bash <（curl -s https://img.coderluny.com:444/uploads/setup_snell.png）\n\n\n\n\nhttps://speed.cloudflare.com/",
+	"_id": "654ded2079d8cf4fa4a0ef73",
+	"parentId": "",
+	"source": "web",
+	"tags": [],
+	"images": [],
+	"created_at": "2023-11-10T16:43:12+08:00"
+}
